@@ -1,9 +1,5 @@
 # terraform-aws-alb
 
-[![CircleCI](https://circleci.com/gh/tmknom/terraform-aws-alb.svg?style=svg)](https://circleci.com/gh/tmknom/terraform-aws-alb)
-[![GitHub tag](https://img.shields.io/github/tag/tmknom/terraform-aws-alb.svg)](https://registry.terraform.io/modules/tmknom/alb/aws)
-[![License](https://img.shields.io/github/license/tmknom/terraform-aws-alb.svg)](https://opensource.org/licenses/Apache-2.0)
-
 Terraform module which creates ALB resources on AWS.
 
 ## Description

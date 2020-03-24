@@ -230,6 +230,6 @@ variable "tags" {
 
 variable "enabled" {
   default     = true
-  type        = string
+  type        = bool
   description = "Set to false to prevent the module from creating anything."
 }
